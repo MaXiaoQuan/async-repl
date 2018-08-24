@@ -1,5 +1,4 @@
 # async-repl
-
 This uses the native async/await support in Node 7.x and newer to let you `await` promises in the repl ("read-eval-print-loop" -- the interactive Node command line).
 
 ## Install
